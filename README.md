@@ -19,5 +19,5 @@ Alts: [@nguyendd123](https://github.com/nguyendd123) [@nguyen_dd](https://nguyen
 ![NASM](/public/NASM.png)&nbsp;
 ![JavaScript](/public/JavaScript.png)&nbsp;
 ![TypeScript](/public/TypeScript.png)&nbsp;
+![Next.js](/public/Next.js.png) &nbsp;
 <!-- ![Rust](/public/Rust.png)&nbsp; -->
-[![Next.js](/public/Next.js.png)](https://github.com/vercel/next.js)&nbsp;
