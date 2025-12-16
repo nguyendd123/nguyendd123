@@ -1,1 +1,23 @@
-# nguyendd123
+# Welcome to my GitHub!
+
+## Introduction
+
+I am Nguyen_DD,
+
+- HUS's high school for gifted students 22 - 25.
+- VNU-University of Engineering and Technology 25 - ?
+- Interested in pwnable, cyber security and low-level exploit.
+
+You may find me on Discord as nguyen_dd (do introduce yourself before sending a friend request!).
+
+Alts: [@nguyendd123](https://github.com/nguyendd123) [@nguyen_dd](https://nguyendd123.github.io/)
+
+## Learning
+
+![C](/public/C.png)&nbsp;
+![C](/public/C++.png)&nbsp;
+![NASM](/public/NASM.png)&nbsp;
+![JavaScript](/public/JavaScript.png)&nbsp;
+![TypeScript](/public/TypeScript.png)&nbsp;
+<!-- ![Rust](/public/Rust.png)&nbsp; -->
+[![Next.js](/public/Next.js.png)](https://github.com/vercel/next.js)&nbsp;
