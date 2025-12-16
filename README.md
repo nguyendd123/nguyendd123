@@ -9,8 +9,9 @@ I am Nguyen_DD,
 - Interested in pwnable, cyber security and low-level exploit.
 
 You may find me on Discord as nguyen_dd (do introduce yourself before sending a friend request!).
+I also have a [@blog](https://nguyendd123.github.io/) about my cyber security's experience.
 
-Alts: [@nguyendd123](https://github.com/nguyendd123) [@nguyen_dd](https://nguyendd123.github.io/)
+Alts: [@nguyendd123](https://github.com/nguyendd123)
 
 ## Learning
 
